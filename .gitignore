@@ -16,6 +16,12 @@ signatur-core/.classpath
 signatur-core/.springBeans
 signatur-core/.settings
 
+signatur-bankid/target
+signatur-bankid/.project
+signatur-bankid/.classpath
+signatur-bankid/.springBeans
+signatur-bankid/.settings
+
 signatur-webapp/target
 signatur-webapp/.project
 signatur-webapp/.classpath
