@@ -9,22 +9,26 @@ signatur-contract/.project
 signatur-contract/.classpath
 signatur-contract/.springBeans
 signatur-contract/.settings
+signatur-contract/src/main/resources/rebel.xml
 
 signatur-core/target
 signatur-core/.project
 signatur-core/.classpath
 signatur-core/.springBeans
 signatur-core/.settings
+signatur-core/src/main/resources/rebel.xml
 
 signatur-bankid/target
 signatur-bankid/.project
 signatur-bankid/.classpath
 signatur-bankid/.springBeans
 signatur-bankid/.settings
+signatur-bankid/src/main/resources/rebel.xml
 
 signatur-webapp/target
 signatur-webapp/.project
 signatur-webapp/.classpath
 signatur-webapp/.springBeans
 signatur-webapp/.settings
+signatur-webapp/src/main/resources/rebel.xml
 
